@@ -384,9 +384,9 @@ async def _run_agent_loop(self, initial_messages, on_progress=None):
 |------|------|------|
 | 整体架构 | [learning_guide.md](./learning_guide.md) | ✅ 已完成 |
 | AgentLoop | [agentloop_analysis.md](./agentloop_analysis.md) | ✅ 已完成 |
-| ContextBuilder | `context_builder_analysis.md` | 📝 待创建 |
+| ContextBuilder | [context_builder_analysis.md](./context_builder_analysis.md) | ✅ 已完成 |
 | ToolRegistry | `tool_registry_analysis.md` | 📝 待创建 |
-| Session管理 | `session_manager_analysis.md` | 📝 待创建 |
+| Session管理 | [session_manager_analysis.md](./session_manager_analysis.md) | ✅ 已完成 |
 | Memory系统 | `memory_system_analysis.md` | 📝 待创建 |
 | Channel适配器 | `channel_adapter_analysis.md` | 📝 待创建 |
 | Provider系统 | `provider_system_analysis.md` | 📝 待创建 |
