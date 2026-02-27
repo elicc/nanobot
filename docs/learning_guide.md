@@ -387,7 +387,9 @@ async def _run_agent_loop(self, initial_messages, on_progress=None):
 | ContextBuilder | [context_builder_analysis.md](./context_builder_analysis.md) | ✅ 已完成 |
 | ToolRegistry | `tool_registry_analysis.md` | 📝 待创建 |
 | Session管理 | [session_manager_analysis.md](./session_manager_analysis.md) | ✅ 已完成 |
-| Memory系统 | `memory_system_analysis.md` | 📝 待创建 |
+| ToolRegistry | [tool_registry_analysis.md](./tool_registry_analysis.md) | ✅ 已完成 |
+| 数据流追踪 | [dataflow_analysis.md](./dataflow_analysis.md) | ✅ 已完成 |
+| Memory系统 | [memory_system_analysis.md](./memory_system_analysis.md) | ✅ 已完成 |
 | Channel适配器 | `channel_adapter_analysis.md` | 📝 待创建 |
 | Provider系统 | `provider_system_analysis.md` | 📝 待创建 |
 
